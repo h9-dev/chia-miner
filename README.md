@@ -1,2 +1,2 @@
-# chia-miner
-The miner for Chia.
+# Chia Miner
+More details see https://github.com/hpool-dev/chia-miner/releases
